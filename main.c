@@ -6,7 +6,6 @@ int main()
     printf("HELLO HOLBERTON;
   }
   return 0;
-
            int main()
 {
   int i;
